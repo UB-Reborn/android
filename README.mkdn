@@ -1,8 +1,8 @@
-Unofficial Modded CyanogenMod
+Team (UB) Modded CyanogenMod Rom
 
 Getting Started
 
-To get started with Android/CyanogenMod, you'll need to get familiar with Git and Repo.
+To get started with Android/Team (UB), you'll need to get familiar with Git and Repo.
 
 To initialize your local repository using the CM-i9300-builds trees, use a command like this:
 
