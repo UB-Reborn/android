@@ -525,9 +525,10 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
   
   <!-- vendor -->
-  <project path="vendor/cm" name="CM-i9300-builds/android_vendor_cm" remote="github" revision="cm-11.0" />
+  <project path="vendor/cm" name="CM-i9300-builds/android_vendor_cm" remote="github" revision="cm-11.0" >
     <copyfile src="bootimage/Android.mk" dest="kernel/Android.mk" />
   </project>
+  
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" remote="github" revision="cm-11.0" />
   
   <!-- devices -->
@@ -564,7 +565,7 @@
   <project path="device/htc/m8" name="CyanogenMod/android_device_htc_m8" remote="github" revision="cm-11.0" />
   <project path="kernel/htc/msm8974" name="CyanogenMod/android_kernel_htc_msm8974" remote="github" revision="cm-11.0" />
   
-  <!-- flo/deb/mako/Grouper -->
+  <!-- flo/deb/mako/grouper -->
   <project path="device/asus/deb" name="CyanogenMod/android_device_asus_deb" remote="github" revision="cm-11.0" />
   <project path="device/asus/flo" name="CyanogenMod/android_device_asus_flo" remote="github" revision="cm-11.0" />
   <project path="device/asus/grouper" name="CyanogenMod/android_device_asus_grouper" remote="github" revision="cm-11.0" />
