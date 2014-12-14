@@ -62,7 +62,7 @@
   <project path="device/qcom/sepolicy" name="CyanogenMod/android_device_qcom_sepolicy" />
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
-  <project path="libcore" name="CyanogenMod/android_libcore" />
+  <project path="libcore" name="temasek/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-5.0.1_r1" /> 
   <project path="sdk" name="platform/sdk" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
@@ -429,7 +429,7 @@
   <project path="packages/apps/BasicSmsReceiver" name="CyanogenMod/android_packages_apps_BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" />
   <project path="packages/apps/BluetoothExt" name="CyanogenMod/android_packages_apps_BluetoothExt" />
-  <project path="packages/apps/Browser" name="Team-UB/android_packages_apps_Browser" />
+  <project path="packages/apps/Browser" name="Temasek/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
   <project path="packages/apps/Camera2" name="CyanogenMod/android_packages_apps_Camera2" />
@@ -442,7 +442,7 @@
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
   <project path="packages/apps/ContactsCommon" name="CyanogenMod/android_packages_apps_ContactsCommon" />
   <project path="packages/apps/DeskClock" name="temasek/android_packages_apps_DeskClock" remote="github" revision="cm-12.0" />
-  <project path="packages/apps/Dialer" name="CyanogenMod/android_packages_apps_Dialer" />
+  <project path="packages/apps/Dialer" name="temasek/android_packages_apps_Dialer" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" />
