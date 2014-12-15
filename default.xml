@@ -587,10 +587,10 @@
   
   <!-- i9300 -->
   <project path="device/samsung/i9300" name="Team-UB/android_device_samsung_i9300" remote="github" revision="cm-12.0" />
-  <project path="device/samsung/smdk4412-common" name="CyanogenMod/android_device_samsung_smdk4412-common" remote="github" revision="cm-12.0" />
+  <project path="device/samsung/smdk4412-common" name="DerTeufel//android_device_samsung_smdk4412-common" remote="github" revision="cm-12.0" />
   <!--project path="hardware/samsung_slsi/exynos4" name="CyanogenMod/android_hardware_samsung_slsi_exynos4" remote="github" revision="cm-12.0" /-->
   <project path="hardware/samsung" name="DerTeufel/android_hardware_samsung" remote="github" revision="cm-12.0" />
-  <project path="kernel/samsung/smdk4412" name="CyanogenMod/android_kernel_samsung_smdk4412" remote="github" revision="cm-12.0" />
+  <project path="kernel/samsung/smdk4412" name="DerTeufel/android_kernel_samsung_smdk4412" remote="github" revision="cm-12.0" />
   <!--project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-12.0" /-->
   <project path="vendor/samsung" name="Team-UB/proprietary_vendor_samsung" remote="github" revision="cm-12.0" />
   
@@ -660,7 +660,7 @@
   
   <!-- t0lte & n7100 -->
   <project path="device/samsung/t0lte" name="Team-UB/android_device_samsung_t0lte" remote="github" revision="cm-12.0" />
-  <project path="device/samsung/smdk4412-qcom-common" name="CyanogenMod/android_device_samsung_smdk4412-qcom-common" remote="github" revision="cm-12.0" />
+  <project path="device/samsung/smdk4412-qcom-common" name="DerTeufel/android_device_samsung_smdk4412-qcom-common" remote="github" revision="cm-12.0" />
 
    
   <!-- hlte -->
