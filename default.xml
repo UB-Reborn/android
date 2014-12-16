@@ -587,7 +587,7 @@
   
   <!-- i9300 i9305-->
   <project path="device/samsung/i9300" name="Team-UB/android_device_samsung_i9300" remote="github" revision="cm-12.0" />
-  <project path="device/samsung/i9305" name="Team-UB/android_device_samsung_i9305" remote="github" revision="cm-12.0" />
+  <!--project path="device/samsung/i9305" name="Team-UB/android_device_samsung_i9305" remote="github" revision="cm-12.0" /-->
   <project path="device/samsung/smdk4412-common" name="Team-UB/android_device_samsung_smdk4412-common" remote="github" revision="cm-12.0" />
   <!--project path="hardware/samsung_slsi/exynos4" name="CyanogenMod/android_hardware_samsung_slsi_exynos4" remote="github" revision="cm-12.0" /-->
   <project path="hardware/samsung" name="DerTeufel/android_hardware_samsung" remote="github" revision="cm-12.0" />
@@ -654,10 +654,10 @@
   <project path="device/lge/hammerhead" name="CyanogenMod/android_device_lge_hammerhead" remote="github" revision="cm-12.0" />
   <project path="kernel/lge/hammerhead" name="CyanogenMod/android_kernel_lge_hammerhead" remote="github" revision="cm-12.0" />
   
-  <!-- jflte -->
+  <!-- jflte >
   <project path="device/samsung/jflte" name="CyanogenMod/android_device_samsung_jflte" remote="github" revision="cm-12.0" />
   <project path="device/samsung/jf-common" name="CyanogenMod/android_device_samsung_jf-common" remote="github" revision="cm-12.0" />
-  <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="github" revision="cm-12.0" />
+  <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="github" revision="cm-12.0" /-->
   
   <!-- t0lte & n7100 -->
   <project path="device/samsung/t0lte" name="Team-UB/android_device_samsung_t0lte" remote="github" revision="cm-12.0" />
@@ -666,8 +666,8 @@
    
   <!-- hlte -->
   <project path="device/samsung/hlte" name="temasek/android_device_samsung_hlte" remote="github" revision="cm-12.0" />
-  <project path="device/samsung/hltespr" name="temasek/android_device_samsung_hltespr" remote="github" revision="cm-12.0" />
-  <project path="device/samsung/hltevzw" name="temasek/android_device_samsung_hltevzw" remote="github" revision="cm-12.0" />
+  <!-- project path="device/samsung/hltespr" name="temasek/android_device_samsung_hltespr" remote="github" revision="cm-12.0" />
+  <project path="device/samsung/hltevzw" name="temasek/android_device_samsung_hltevzw" remote="github" revision="cm-12.0" /-->
   <project path="device/samsung/hlte-common" name="temasek/android_device_samsung_hlte-common" remote="github" revision="cm-12.0" />
   <project path="kernel/samsung/hlte" name="temasek/android_kernel_samsung_hlte" remote="github" revision="staging-v1" />
  
