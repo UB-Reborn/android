@@ -654,7 +654,7 @@
   <project path="kernel/lge/hammerhead" name="CyanogenMod/android_kernel_lge_hammerhead" remote="github" revision="cm-12.0" />
   
   <!-- jflte -->
-  <project path="device/samsung/jflte" name="CyanogenMod/android_device_samsung_jfltexx" remote="github" revision="cm-12.0" />
+  <project path="device/samsung/jfltexx" name="CyanogenMod/android_device_samsung_jfltexx" remote="github" revision="cm-12.0" />
   <project path="device/samsung/jf-common" name="CyanogenMod/android_device_samsung_jf-common" remote="github" revision="cm-12.0" />
   <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="github" revision="cm-12.0" />
   
