@@ -662,6 +662,7 @@
   <project path="device/samsung/t0lte" name="Team-UB/android_device_samsung_t0lte" remote="github" revision="cm-12.0" />
   <!-- TEMP DOUBLE SYNC KERNEL TO A SEPERATE LOCATION -->
   <project path="kernel/samsung/smdk4412_t0lte" name="DerTeufel/android_kernel_samsung_smdk4412" remote="github" revision="cm-12.0" />
+  <project path="kernel/samsung/smdk4412_n7100" name="ivanmeler/android_kernel_samsung_smdk4412-1" remote="github" revision="cm-12.0" />
   <project path="device/samsung/smdk4412-qcom-common" name="team-ub/android_device_samsung_smdk4412-qcom-common" remote="github" revision="cm-12.0" />
   <project path="device/samsung/n7100" name="Team-UB/android_device_samsung_n7100" remote="github" revision="cm-12.0" />
    
