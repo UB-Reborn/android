@@ -673,7 +673,7 @@
    
   <!-- hlte -->
   <project path="device/samsung/hlte" name="temasek/android_device_samsung_hlte" remote="github" revision="cm-12.0" />
-  <project path="device/samsung/hlte-common" name="Team-UB/android_device_samsung_hlte-common" remote="github" revision="cm-12.0" />
+  <project path="device/samsung/hlte-common" name="temasek/android_device_samsung_hlte-common" remote="github" revision="cm-12.0" />
   <project path="kernel/samsung/hlte" name="temasek/android_kernel_samsung_hlte" remote="github" revision="staging-v1" />
  
   <!-- OPO bacon -->
