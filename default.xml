@@ -30,7 +30,8 @@
   
   <project path="scripts" name="team-ub/android_scripts" remote="bitbucketP" revision="master" />
   <project path="packages/apps/OpenDelta" name="team-ub/android_packages_apps_opendelta" remote="bitbucketP" revision="cm12" />
-    <proje path="packages/apps/TUBwallpapers" name="team-ub/android_packages_apps_TUBwallpapers" remote="bitbucketP" revision="cm-11.0" />
+  <project path="packages/apps/TUBwallpapers" name="team-ub/android_packages_apps_TUBwallpapers" remote="bitbucketP" revision="cm-11.0" />
+
 
   <!-- misc -->
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
@@ -216,7 +217,7 @@
   <project path="external/libtruezip" name="CyanogenMod/android_external_libtruezip" />
   <project path="external/littlemock" name="platform/external/littlemock" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/lldb" name="platform/external/lldb" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
-  <project path="external/llvm" name="temasek/android_external_llvm" groups="pdk" />
+  <project path="external/llvm" name="platform/external/llvm" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/ltrace" name="platform/external/ltrace" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/lzma" name="platform/external/lzma" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/lsof" name="CyanogenMod/android_external_lsof" />
@@ -302,7 +303,7 @@
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <!--project path="external/whispersystems/TextSecure" name="CyanogenMod/android_external_whispersystems_TextSecure" />
   <project path="external/whispersystems/WhisperPush" name="CyanogenMod/android_external_whispersystems_WhisperPush" /-->
-  <project path="external/wpa_supplicant_8" name="temasek/android_external_wpa_supplicant_8" groups="pdk" remote="github" revision="cm-12.0" />
+  <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/yaffs2" name="platform/external/yaffs2" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
