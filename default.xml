@@ -702,7 +702,7 @@
   
   <!-- trltexx -->
   <project path="device/samsung/trltexx" name="jaapp/android_device_samsung_trltexx" remote="github" revision="cm-12.0" />
-  <project path="device/samsung/trlte-common" name="jaapp/android_device_samsung_trlte-common" remote="github" revision="cm-12.0" />
-  <project path="kernel/samsung/trltexx" name="jaapp/android_kernel_samsung_trltexx" remote="github" revision="cm-12.0" />
+  <project path="device/samsung/trlte-common" name="CyanogenMod/android_device_samsung_trlte-common" remote="github" revision="cm-12.0" />
+  <project path="kernel/samsung/trlte" name="CyanogenMod/android_kernel_samsung_trlte" remote="github" revision="cm-12.0" />
   
 </manifest>
