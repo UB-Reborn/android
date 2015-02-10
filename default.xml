@@ -612,7 +612,7 @@
   <project path="device/samsung/smdk4412-common" name="Team-UB/android_device_samsung_smdk4412-common-1" remote="github" revision="n-2.0" />
   <project path="hardware/samsung" name="NamelessRom/android_hardware_samsung" remote="github" revision="n-2.0" />
   <project path="kernel/samsung/smdk4412" name="NamelessRom/android_kernel_samsung_smdk4412" remote="github" revision="n-2.0" />
-  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-11.0" />
+  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-12.0" />
   <project path="vendor/samsung" name="Team-UB/proprietary_vendor_samsung" remote="github" revision="cm-12.0" />
   
   <!-- manta -->
