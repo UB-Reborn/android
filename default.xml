@@ -722,6 +722,7 @@
   
   <!-- titan -->
   <project path="device/motorola/titan" name="CyanogenMod/android_device_motorola_titan" remote="github" revision="cm-12.0" />
+  <project path="kernel/motorola/titan" name="CyanogenMod/android_kernel_motorola_titan" remote="github" revision="cm-12.0" />
   
   <!-- flounder -->
   <project path="device/htc/flounder" name="CyanogenMod/android_device_htc_flounder" remote="github" revision="cm-12.0" />
