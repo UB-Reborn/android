@@ -729,8 +729,9 @@
   <project path="device/htc/flounder_lte" name="CyanogenMod/android_device_htc_flounder_lte" remote="github" revision="cm-12.0" />
   <project path="kernel/htc/flounder" name="CyanogenMod/android_kernel_htc_flounder" remote="github" revision="cm-12.0" />
   
-  <!-- falcon -->
+  <!-- victara -->
   <project path="device/motorola/victara" name="CyanogenMod/android_device_motorola_victara" remote="github" revision="cm-12.0" />  
   <project path="kernel/motorola/msm8974" name="CyanogenMod/android_kernel_motorola_msm8974" remote="github" revision="cm-12.0" />
+  <project path="vendor/motorola/victara" name="MoKee/android_vendor_motorola_victara" remote="github" revision="mkl" />
     
 </manifest>
