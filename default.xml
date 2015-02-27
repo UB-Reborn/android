@@ -737,6 +737,7 @@
   <!-- togari -->
   <project path="device/sony/togari" name="CyanogenMod/android_device_sony_togari" remote="github" revision="cm-12.0" />  
   <project path="kernel/sony/msm8974" name="CyanogenMod/android_kernel_sony_msm8974" remote="github" revision="cm-12.0" />
+  <project path="device/sony/msm8974-common" name="CyanogenMod/android_device_sony_msm8974-common" remote="github" revision="cm-12.0" />
   <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="github" revision="cm-12.0" /> 
   <project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" remote="github" revision="cm-12.0" />
   <project path="device/sony/rhine-common" name="CyanogenMod/android_device_sony_rhine-common" remote="github" revision="cm-12.0" />  
