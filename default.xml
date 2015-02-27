@@ -740,7 +740,7 @@
   <project path="device/sony/msm8974-common" name="CyanogenMod/android_device_sony_msm8974-common" remote="github" revision="cm-12.0" />
   <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="github" revision="cm-12.0" /> 
   <project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" remote="github" revision="cm-12.0" />
-  <project path="vendor/sony/qcom-common" name="CyanogenMod/android_vendor_sony_qcom-common" remote="github" revision="cm-12.0" />
+  <project path="vendor/sony/" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="cm-12.0" />
   <project path="device/sony/rhine-common" name="CyanogenMod/android_device_sony_rhine-common" remote="github" revision="cm-12.0" />  
    
 </manifest>
