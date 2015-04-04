@@ -655,7 +655,7 @@
   <project path="device/samsung/klte-common" name="Team-UB/android_device_samsung_klte-common" remote="github" revision="cm-12.1" />
   <project path="device/samsung/msm8974-common" name="CyanogenMod/android_device_samsung_msm8974-common" remote="github" revision="cm-12.1" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="github" revision="cm-12.1" />
-  <project path="kernel/samsung/klte" name="Team-Hydra/android_kernel_samsung_klte" remote="github" revision="cm-12.1" />
+  <project path="kernel/samsung/klte" name="Team-Hydra/android_kernel_samsung_klte" remote="github" revision="hwdep" />
    
   <!-- hammerhead --> 
   <project path="device/lge/hammerhead" name="CyanogenMod/android_device_lge_hammerhead" remote="github" revision="cm-12.1" />
