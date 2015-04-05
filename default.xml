@@ -389,7 +389,7 @@
   <project path="frameworks/rs" name="CyanogenMod/android_frameworks_rs" groups="pdk" />
   <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" />
   <project path="frameworks/volley" name="CyanogenMod/android_frameworks_volley" />
-  <project path="frameworks/webview" name="CyanogenMod/android_frameworks_webview" />
+  <project path="frameworks/webview" name="temasek/android_frameworks_webview" />
   <project path="frameworks/wilhelm" name="CyanogenMod/android_frameworks_wilhelm" />
   
   <!-- hardware -->
@@ -483,7 +483,7 @@
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
   <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />
   <project path="packages/apps/ManagedProvisioning" name="CyanogenMod/android_packages_apps_ManagedProvisioning" />
-  <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms-caf" />
+  <project path="packages/apps/Mms" name="temasek/android_packages_apps_Mms-caf" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" />
   <project path="packages/apps/PackageInstaller" name="temasek/android_packages_apps_PackageInstaller" />
@@ -503,7 +503,7 @@
   <project path="packages/apps/TvSettings" name="CyanogenMod/android_packages_apps_TvSettings" />
   <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" />
   
-    <!-- packages other -->
+  <!-- packages other -->
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
   <project path="packages/inputmethods/LatinIME" name="temasek/android_packages_inputmethods_LatinIME" />
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
@@ -617,14 +617,12 @@
   <!-- devices -->
   
   <!-- qcom generic -->
-
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1" />
   <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="github" revision="cm-12.1" />  
   
   <!-- samsung devices -->
 
   <!-- samsung generic --> 
-  
   <project path="hardware/samsung" name="NamelessRom/android_hardware_samsung" remote="github" revision="n-2.0" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-12.1" />
   <project path="vendor/samsung" name="Team-UB/proprietary_vendor_samsung" remote="github" revision="cm-12.1" />
@@ -670,7 +668,6 @@
   <!-- google nexus devices -->
   
   <!-- nexus generic -->
-  
   <project path="kernel/google/msm" name="CyanogenMod/android_kernel_google_msm" remote="github" revision="cm-12.1" />
   <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" remote="github" revision="cm-12.1" />
   <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="cm-12.1" />
@@ -681,7 +678,7 @@
   <project path="vendor/broadcom" name="TheMuppets/proprietary_vendor_broadcom" remote="github" revision="cm-12.1" />
   <project path="vendor/widevine" name="TheMuppets/proprietary_vendor_widevine" remote="github" revision="cm-12.1" />
  
-  <!-- flo/mako/grouper -->
+  <!-- flo mako grouper -->
   <project path="device/asus/flo" name="CyanogenMod/android_device_asus_flo" remote="github" revision="cm-12.1" />
   <project path="device/lge/mako" name="CyanogenMod/android_device_lge_mako" remote="github" revision="cm-12.1" />
   <project path="device/asus/grouper" name="CyanogenMod/android_device_asus_grouper" remote="github" revision="cm-12.1" />
@@ -707,7 +704,6 @@
   <!-- htc devices -->  
   
   <!-- htc generic -->  
-  
   <project path="device/htc/msm8960-common" name="CyanogenMod/android_device_htc_msm8960-common" remote="github" revision="cm-12.1" /> 
   <project path="kernel/htc/msm8960" name="CyanogenMod/android_kernel_htc_msm8960" remote="github" revision="cm-12.1" />
   <project path="vendor/htc" name="TheMuppets/proprietary_vendor_htc" remote="github" revision="cm-12.1" />
@@ -744,14 +740,12 @@
   <!-- Motorola devices -->
   
   <!-- Motorola generic -->
-  
   <project path="kernel/motorola/msm8226" name="CyanogenMod/android_kernel_motorola_msm8226" remote="github" revision="cm-12.1" />
   <project path="device/motorola/msm8226-common" name="CyanogenMod/android_device_motorola_msm8226-common" remote="github" revision="cm-12.1" />
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="cm-12.1" />
   <project path="kernel/motorola/msm8974" name="CyanogenMod/android_kernel_motorola_msm8974" remote="github" revision="cm-12.1" />
   
   <!-- falcon --> 
- 
   <project path="device/motorola/falcon" name="CyanogenMod/android_device_motorola_falcon" remote="github" revision="cm-12.1" />
  
   <!-- titan -->
