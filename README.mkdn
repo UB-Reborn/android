@@ -8,9 +8,14 @@ To initialize your local repository using the Team-UB trees, use a command like 
 
 repo init -u git://github.com/Team-UB/android.git -b cm-12.1
 
-Then to sync up:
+Then to sync up without jenkins:
 
 repo sync
+
+Or with jenkins:
+
+ssh: repo sync scripts
+Jenkins: Run sync job
 
 Please see the CyanogenMod Wiki for building instructions.
 
