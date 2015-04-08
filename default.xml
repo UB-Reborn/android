@@ -354,8 +354,8 @@
   <project path="external/chromium_org/third_party/yasm/source/patched-yasm" name="platform/external/chromium_org/third_party/yasm/source/patched-yasm" remote="aosp" />
   <project path="external/chromium_org/tools/grit" name="platform/external/chromium_org/tools/grit" remote="aosp" />
   <project path="external/chromium_org/tools/gyp" name="platform/external/chromium_org/tools/gyp" remote="aosp" />
-  <project path="external/chromium_org/v8" name="platform/external/chromium_org/v8" remote="aosp" />
-  
+  <project path="external/chromium_org/v8" name="CyanogenMod/android_external_chromium_org_v8" />
+
   <!-- frameworks -->
   <project path="frameworks/av" name="temasek/android_frameworks_av" groups="pdk" />
   <project path="frameworks/base" name="Team-UB/android_frameworks_base" />
