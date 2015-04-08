@@ -21,6 +21,8 @@
   <remote  name="bitbucketP"
            fetch="ssh://git@bitbucket.org" />         
 
+           
+             <!-- misc -->
   <project path="build" name="Team-UB/android_build" groups="pdk,tradefed" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
