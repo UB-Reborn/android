@@ -703,8 +703,8 @@
   <project path="kernel/lge/hammerhead" name="CyanogenMod/android_kernel_lge_hammerhead" remote="github" revision="cm-12.1" />
   
   <!-- manta -->
-  <project path="device/samsung/manta" name="CyanogenMod/android_device_samsung_manta" remote="github" revision="cm-12.0" />
-  <project path="kernel/samsung/manta" name="CyanogenMod/android_kernel_samsung_manta" remote="github" revision="cm-12.0" />
+  <project path="device/samsung/manta" name="CyanogenMod/android_device_samsung_manta" remote="github" revision="cm-12.1" />
+  <project path="kernel/samsung/manta" name="CyanogenMod/android_kernel_samsung_manta" remote="github" revision="cm-12.1" />
   
   <!-- shamu -->
   <project path="device/moto/shamu" name="Team-UB/android_device_moto_shamu" remote="github" revision="cm-12.1" />
@@ -761,8 +761,7 @@
   <project path="device/motorola/titan" name="CyanogenMod/android_device_motorola_titan" remote="github" revision="cm-12.1" />
   
   <!-- victara -->
-  <project path="device/motorola/victara" name="CyanogenMod/android_device_motorola_victara" remote="github" revision="cm-12.1" />  
-  <project path="vendor/motorola/victara" name="MoKee/android_vendor_motorola_victara" remote="github" revision="mkl" />
+  <project path="device/motorola/victara" name="CyanogenMod/android_device_motorola_victara" remote="github" revision="cm-12.1" />
 
   <!-- wingray 
   <project path="device/generic/armv7-a" name="CyanogenMod/android_device_generic_armv7-a" groups="pdk" remote="github" revision="cm-10.1"/>
