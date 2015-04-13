@@ -631,8 +631,8 @@
   <project path="hardware/samsung" name="NamelessRom/android_hardware_samsung" remote="github" revision="n-2.0" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-12.1" />
   <project path="vendor/samsung" name="Team-UB/proprietary_vendor_samsung" remote="github" revision="cm-12.1" />
-  <project path="device/samsung/msm8974-common" name="Team-Hydra/android_device_samsung_msm8974-common" remote="github" revision="cm-12.1" />
-  <project path="device/samsung/qcom-common" name="Team-Hydra/android_device_samsung_qcom-common" remote="github" revision="cm-12.1" />
+  <project path="device/samsung/msm8974-common" name="CyanogenMod/android_device_samsung_msm8974-common" remote="github" revision="cm-12.1" />
+  <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="github" revision="cm-12.1" />
   <project path="device/samsung/msm8930-common" name="CyanogenMod/android_device_samsung_msm8930-common" remote="github" revision="cm-12.1" />
   <project path="kernel/samsung/msm8930-common" name="CyanogenMod/android_kernel_samsung_msm8930-common" remote="github" revision="cm-12.1" /> 
   
