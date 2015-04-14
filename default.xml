@@ -47,7 +47,7 @@
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" />
   <project path="development" name="CyanogenMod/android_development" groups="pdk-cw-fs" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs" remote="aosp" />  
-  <project path="libcore" name="CyanogenMod/android_libcore" />
+  <project path="libcore" name="temasek/android_libcore" remote="github" revision="cm-12.1" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" remote="aosp" />
   <project path="pdk" name="platform/pdk" groups="pdk" remote="aosp" />
