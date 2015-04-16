@@ -692,8 +692,6 @@
 
   <!-- flounder -->
   <project path="device/htc/flounder" name="CyanogenMod/android_device_htc_flounder" remote="github" revision="cm-12.1" />
-  <!-- FLOUNDER AWAITING CM12.1 repo change -->
-  <project path="device/htc/flounder_lte" name="CyanogenMod/android_device_htc_flounder_lte" remote="github" revision="cm-12.0" />
   <project path="kernel/htc/flounder" name="CyanogenMod/android_kernel_htc_flounder" remote="github" revision="cm-12.1" />  
   
   <!-- hammerhead --> 
