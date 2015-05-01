@@ -776,5 +776,6 @@
   <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="github" revision="cm-12.1" /> 
   <project path="vendor/sony/" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="cm-12.1" />
   <project path="device/sony/rhine-common" name="CyanogenMod/android_device_sony_rhine-common" remote="github" revision="cm-12.1" />  
-  
+  <project path="hardware/sony/thermanager" name="CyanogenMod/android_hardware_sony_thermanager" remote="github" revision="cm-12.1" />  
+
 </manifest>
