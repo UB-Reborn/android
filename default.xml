@@ -693,7 +693,7 @@
   <project path="kernel/asus/grouper" name="CyanogenMod/android_kernel_asus_grouper" remote="github" revision="cm-12.1" />
 
   <!-- flounder -->
-  <project path="device/htc/flounder" name="CyanogenMod/android_device_htc_flounder" remote="github" revision="cm-12.1" />
+  <project path="device/htc/flounder" name="Team-UB/android_device_htc_flounder" remote="github" revision="cm-12.1" />
   <project path="kernel/htc/flounder" name="CyanogenMod/android_kernel_htc_flounder" remote="github" revision="cm-12.1" />  
   
   <!-- hammerhead --> 
