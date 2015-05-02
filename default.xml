@@ -695,7 +695,7 @@
 
   <!-- flounder -->
   <project path="device/htc/flounder" name="Team-UB/android_device_htc_flounder" remote="github" revision="cm-12.1" />
-  <project path="kernel/htc/flounder" name="CyanogenMod/android_kernel_htc_flounder" remote="github" revision="cm-12.1" />  
+  <project path="kernel/htc/flounder" name="Team-UB/android_kernel_htc_flounder" remote="github" revision="cm-12.1" />  
   
   <!-- hammerhead --> 
   <project path="device/lge/hammerhead" name="CyanogenMod/android_device_lge_hammerhead" remote="github" revision="cm-12.1" />
