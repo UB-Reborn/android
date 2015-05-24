@@ -681,7 +681,7 @@
   <!-- nexus generic -->
   <project path="kernel/google/msm" name="CyanogenMod/android_kernel_google_msm" remote="github" revision="cm-12.1" />
   <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" remote="github" revision="cm-12.1" />
-  <project path="vendor/lge" name="Team-UB/proprietary_vendor_lge" remote="github" revision="cm-12.1" />
+  <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="cm-12.1" />
   <project path="vendor/nvidia/" name="TheMuppets/proprietary_vendor_nvidia" remote="github" revision="cm-12.1" /> 
   <project path="vendor/invensense/" name="TheMuppets/proprietary_vendor_invensense" remote="github" revision="cm-12.1" /> 
   <project path="vendor/elan/" name="TheMuppets/proprietary_vendor_elan" remote="github" revision="cm-12.1" />
