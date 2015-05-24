@@ -744,7 +744,7 @@
   <!-- lg devices -->  
   
   <!-- d855 -->
-  <project path="device/lge/d855" name="Team-UB/android_device_lge_d855" remote="github" revision="cm-12.1" />
+  <project path="device/lge/d855" name="CyanogenMod/android_device_lge_d855" remote="github" revision="cm-12.1" />
   <project path="device/lge/g3-common" name="CyanogenMod/android_device_lge_g3-common" remote="github" revision="cm-12.1" />
   <project path="kernel/lge/g3" name="CyanogenMod/android_kernel_lge_g3" remote="github" revision="cm-12.1" />
   
