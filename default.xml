@@ -16,12 +16,17 @@
            remote="github"
            sync-c="true"
            sync-j="4" />
+           
+  <remote  name="bitbucketP"
+           fetch="ssh://git@bitbucket.org" />
 
   <project path="build" name="Team-UB/android_build" remote="github" revision="cm-12.1" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
   <project path="android" name="Team-UB/android" remote="github" revision="cm-12.1" />
+  
+  <project path="scripts" name="team-ub/android_scripts" remote="bitbucketP" revision="master" />
 
   <!-- START of temasek -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="arter97/arm-linux-androideabi-4.9" remote="github" revision="cm-12.0" />
