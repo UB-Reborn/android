@@ -27,6 +27,7 @@
   <project path="android" name="Team-UB/android" remote="github" revision="cm-12.1" />
   
   <project path="scripts" name="team-ub/android_scripts" remote="bitbucketP" revision="master" />
+  <project path="packages/apps/TUBwallpapers" name="team-ub/android_packages_apps_TUBwallpapers" remote="bitbucketP" revision="cm-11.0" />
 
   <!-- START of temasek -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="arter97/arm-linux-androideabi-4.9" remote="github" revision="cm-12.0" />
@@ -504,7 +505,6 @@
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
   <!-- <project path="packages/apps/CMHome" name="CyanogenMod/android_packages_apps_CMHome" /> -->
   <!--<project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" />-->
-  <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
   <!--<project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />-->
   <!--<project path="packages/apps/ContactsCommon" name="CyanogenMod/android_packages_apps_ContactsCommon" />-->
   <!--<project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />-->
