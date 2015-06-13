@@ -20,7 +20,7 @@
   <remote  name="bitbucketP"
            fetch="ssh://git@bitbucket.org" />
 
-  <project path="build" name="Team-UB/android_build" remote="github" revision="cm-12.1" >
+  <project path="build" name="Team-UB/android_build" remote="github" groups="pdk,tradefed" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
