@@ -667,7 +667,7 @@
   <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="github" revision="cm-12.1" />
    
   <!-- klte -->
-  <project path="device/samsung/klte" name="CyanogenMod/android_device_samsung_klte" remote="github" revision="cm-12.1" />
+  <project path="device/samsung/klte" name="Team-UB/android_device_samsung_klte" remote="github" revision="cm-12.1" />
   <project path="device/samsung/kltevzw" name="CyanogenMod/android_device_samsung_kltevzw" remote="github" revision="cm-12.1" />
   <project path="device/samsung/kltespr" name="CyanogenMod/android_device_samsung_kltespr" remote="github" revision="cm-12.1" />
   <project path="device/samsung/klte-common" name="Team-UB/android_device_samsung_klte-common" remote="github" revision="cm-12.1" />
