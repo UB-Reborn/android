@@ -39,7 +39,7 @@
   <project path="bionic" name="temasek/android_bionic" remote="github" revision="cm-12.1" />
   <project path="development" name="temasek/android_development" remote="github" revision="cm-12.1" />
   <project path="frameworks/av" name="temasek/android_frameworks_av" remote="github" revision="cm-12.1" />
-  <project path="frameworks/base" name="temasek/android_frameworks_base" remote="github" revision="cm-12.1" />
+  <project path="frameworks/base" name="Team-UB/android_frameworks_base" remote="github" revision="cm-12.1" />
   <project path="frameworks/native" name="temasek/android_frameworks_native" remote="github" revision="cm-12.1" />
   <project path="frameworks/opt/cards" name="temasek/frameworks_opt_cards" remote="github" revision="cm-12.1" />
   <project path="frameworks/opt/net/wifi" name="temasek/android_frameworks_opt_net_wifi" remote="github" revision="cm-12.1" />
@@ -55,9 +55,8 @@
   <project path="packages/apps/InCallUI" name="temasek/android_packages_apps_InCallUI" remote="github" revision="cm-12.1" />
   <project path="packages/apps/Mms" name="temasek/android_packages_apps_Mms-caf" remote="github" revision="cm-12.1" />
   <project path="packages/apps/Nfc" name="temasek/android_packages_apps_Nfc" remote="github" revision="cm-12.1" />
-  <project path="packages/apps/OmniSwitch" name="temasek/android_packages_apps_OmniSwitch" remote="github" revision="cm-12.1" />
   <project path="packages/apps/PackageInstaller" name="temasek/android_packages_apps_PackageInstaller" remote="github" revision="cm-12.1" />
-  <project path="packages/apps/Settings" name="temasek/android_packages_apps_Settings" remote="github" revision="cm-12.1" />
+  <project path="packages/apps/Settings" name="Team-UB/android_packages_apps_Settings" remote="github" revision="cm-12.1" />
   <project path="packages/inputmethods/LatinIME" name="temasek/android_packages_inputmethods_LatinIME" remote="github" revision="cm-12.1" />
   <project path="packages/providers/MediaProvider" name="temasek/android_packages_providers_MediaProvider" remote="github" revision="cm-12.1" />
   <project path="packages/services/Telecomm" name="temasek/android_packages_services_Telecomm" remote="github" revision="cm-12.1" />
@@ -533,7 +532,6 @@
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Terminal" name="CyanogenMod/android_packages_apps_Terminal" />
   <project path="packages/apps/ThemeChooser" name="Team-UB/android_packages_apps_ThemeChooser" />
-  <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" />
   <project path="packages/apps/TvSettings" name="CyanogenMod/android_packages_apps_TvSettings" />
   <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
