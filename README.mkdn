@@ -6,7 +6,7 @@ To get started with Android/Team (UB), you'll need to get familiar with Git and 
 
 To initialize your local repository using the Team-UB trees, use a command like this:
 
-repo init -u git://github.com/Team-UB/android.git -b cm-12.1
+repo init -u git://github.com/UB-Reborn/android.git -b cm-12.1
 
 Then to sync up without jenkins:
 
